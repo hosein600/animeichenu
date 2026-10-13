@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(blue,purple)
+}
+menu {
+    position: fixed;
+    color: rgb(4, 0, 255);
+
+    width: 50px;
+    background: chartreuse;
+    text-align: center
+
+}
+h2 {
+color: aqua;
+text-align: center;
+font-size: 30px;
+}
